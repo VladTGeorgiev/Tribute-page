@@ -1,2 +1,2 @@
 # Tribute-page
-A tribute page to Arnold Schwarzenegger
+A tribute webpage to Arnold Schwarzenegger
